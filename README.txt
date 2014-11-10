@@ -1,0 +1,1 @@
+Repo for my katas from http://www.codewars.com/
